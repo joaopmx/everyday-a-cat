@@ -7,4 +7,4 @@
 
 ## 📙 Sobre
 
-**Everyday a cat** é um projeto feito para os amantes de gatos que após um dia díficil possam soltar um riso ao visualizarem fotos do seu felino favorito em momentos engraçados ou apenas sendo fofos!
+**Everyday a cat** é um projeto feito para os amantes de gatos que após um dia díficil possam soltar um riso ao visualizarem fotos do seu felino favorito em momentos engraçados ou apenas sendo adorável!
