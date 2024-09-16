@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background:
+    conic-gradient(from -45deg at calc(100%/3) calc(100%/3), #faf26d 90deg, #0000 0),
+    conic-gradient(from -135deg at calc(100%/3) calc(2*100%/3), #faf26d 90deg, #ffff7e 0 135deg, #0000 0),
+    conic-gradient(from 135deg at calc(2*100%/3) calc(2*100%/3), #faf26d 90deg, #ffff7e 0 135deg, #0000 0),
+    conic-gradient(from 45deg at calc(2*100%/3) calc(100%/3), #faf26d 90deg, #ffff7e 0 135deg, #0000 0,#faf26d 0 225deg,#ffff7e 0);
+    background-size: 64px 64px;
+}
+
+.main__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.main__container .logo__image {
+    margin-bottom: 32px;
+} 
+
+.sub__container {
+    display: flex;
+    border: 25px groove #9c613c;
+    width: 620px;
+}
+
+.sub__container .cat__image {
+    width: 100%;
+    margin: 0 auto;
+}
